@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Chatsy</string>
+    <string name="chatsy">Chatsy</string>
+    <string name="created_by">Created by</string>
+    <string name="shyanil_mishra">Shyanil Mishra</string>
+    <string name="log_in">Log in</string>
+    <string name="type_your_active_email">Type Your Active Email</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">EMAIL</string>
+    <string name="password1">PASSWORD</string>
+    <string name="need_an_account">Need an Account</string>
+    <string name="sign_up">SIGN UP!</string>
+    <string name="sign_up1">SIGN UP</string>
+    <string name="username">UserName</string>
+    <string name="todo1">TODO</string>
+    <string name="re_enter_password">RE-ENTER PASSWORD</string>
+    <string name="create_new">Create New</string>
+    <string name="account">Account</string>
+    <string name="username1">USERNAME</string>
+    <string name="login1">LOGIN</string>
+    <string name="create_new_account">CREATE NEW ACCOUNT</string>
+    <string name="create_new_account1">CREATE NEW ACCOUNT</string>
+    <string name="todo2">TODO</string>
+</resources>
