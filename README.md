@@ -16,7 +16,7 @@ A captivating mobile application developed using Android Studio, combining funct
 To install the Chasty_Java_Project app on your mobile device, follow these steps:
 
 
-1. Download the APK file from [Google Drive](https://drive.google.com/drive/folders/17VSNSwdTs6R4n0ZgOeOMaVSlYj8kEyj_). |  [View Screenshots](https://drive.google.com/drive/folders/17VSNSwdTs6R4n0ZgOeOMaVSlYj8kEyj )
+1. Download the APK file from [Google Drive](https://drive.google.com/drive/folders/17VSNSwdTs6R4n0ZgOeOMaVSlYj8kEyj_). |  [View Screenshots](https://drive.google.com/drive/folders/17VSNSwdTs6R4n0ZgOeOMaVSlYj8kEyj_).
 2. Enable installation from unknown sources in your device settings.
 3. Open the APK file to begin installation.
 4. Follow the on-screen instructions to complete the installation.
